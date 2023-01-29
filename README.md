@@ -15,6 +15,7 @@ Despite the varying price levels, the associated rates of successful contact wit
 ![testtest](Visualizations/Voter Participation among GOTV Target Group.png)
 
 ![Employee data](/BakerRipleyVoterAnalysis/Visualizations/Voter Participation among GOTV Target Group.png?raw=true "Employee Data title")
+![Employee data](/BakerRipleyVoterAnalysis/Visualizations/cost-per-vote.png?raw=true "Employee Data title")
 
 
 When determining the percent of people in the targeted precincts that voted out of those who BakerRipley reached out to, the average cost per vote came out to $7.85. This came from adding up the total price of all attempts at contact with targeted voters, and dividing that price by the number of people who actually voted among the targeted voters. The distribution of how much of that average cost came from each method does correlate with individual costs, but not when considering how much more door knocking costs than the other three; door knocking made up the majority of a single average vote's cost at $3.75, but there was virtually no difference between it and mailing at $3.68 per vote, and texts and calls were much cheaper almost to the point of being insignificant.
