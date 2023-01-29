@@ -11,7 +11,18 @@ Despite the varying price levels, the associated rates of successful contact wit
 
 ![Voting in Target Group](/Visualizations/voter-part-among-govt-target.png?raw=true "Voting in GOVT Target Group")
 
-
 When determining the percent of people in the targeted precincts that voted out of those who BakerRipley reached out to, the average cost per vote came out to $7.85. This came from adding up the total price of all attempts at contact with targeted voters, and dividing that price by the number of people who actually voted among the targeted voters. The distribution of how much of that average cost came from each method does correlate with individual costs, but not when considering how much more door knocking costs than the other three; door knocking made up the majority of a single average vote's cost at $3.75, but there was virtually no difference between it and mailing at $3.68 per vote, and texts and calls were much cheaper almost to the point of being insignificant.
+
+![Average Cost per Vote](/Visualizations/cost-for-a-vote.png?raw=true "Avg Cost per Vote")
+
+## Cost Efficacy and Its Applications
+
+While the success of each outreach method was rather simple to discern, looking more in-depth at how ideal each method could be for future community engagement initiatives was a focal point in this research. By combining the results found when observing successes, overall vs. individual costs, and voter turnout rates, it became clear that door to door actions were by far the least efficient for increasing voter participation.
+
+![Price per Method](/Visualizations/cost-per-method.png?raw=true "Price per Method")
+
+When calculating total cost of a single method over the number of people reached using that method that went to vote, the individual cost of canvassing came out to $97 per vote that it produced. In comparison, all three other methods were under 20$, even though door knocking had the fewest attempts at reaching people. This statistic paired with the raw success rates of each method draws out the inference that it is important to find a balance between the cost for a method and how personal it gets with the target audience.
+
+Precint 945 had voter turnout of 6.36%, and precinct 928 had 75.6% voter turnout...
 
 ## Taking Outside Information into Account
