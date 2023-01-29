@@ -2,10 +2,10 @@
 
 Leading up to the November 2022 Texas State Election, BakerRipley, a local nonprofit organization with a focus in civic engagement, worked to encourage eligible local individuals to get registered through their Get Out the Vote (GOTV) efforts. Focusing on targeted precincts and those in close proximity, BakerRipley used four different methods to get out the message with varying levels of success:
 
-* Phone calls ($0.13/call)
-* Text messaging and SMS ($0.06/message)
-* Block walking and door-to-door contact ($2/door)
-* Mailing postcards ($0.35/card)
+* Phone calls (\$0.13/call)
+* Text messaging and SMS (\$0.06/message)
+* Block walking and door-to-door contact (\$2/door)
+* Mailing postcards (\$0.35/card)
 
 Despite the varying price levels, the associated rates of successful contact with the targeted individual were not correlative with price, but rather how personal the form of connection was; phone calls were most often received, followed by text messages, and knocking on doors was least often received (mailings had no indicator of whether the individual received them or not; see more on this in [Taking Outside Information into Account](#taking-outside-information-into-account).
 
@@ -21,7 +21,7 @@ While the success of each outreach method was rather simple to discern, looking 
 
 ![Price per Method](/Visualizations/cost-per-method.png?raw=true "Price per Method")
 
-When calculating total cost of a single method over the number of people reached using that method that went to vote, the individual cost of canvassing came out to $97 per vote that it produced. In comparison, all three other methods were under 20$, even though door knocking had the fewest attempts at reaching people. This statistic paired with the raw success rates of each method draws out the inference that it is important to find a balance between the cost for a method and how personal it gets with the target audience.
+When calculating total cost of a single method over the number of people reached using that method that went to vote, the individual cost of canvassing came out to \$97 per vote that it produced. In comparison, all three other methods were under \$20, even though door knocking had the fewest attempts at reaching people. This statistic paired with the raw success rates of each method draws out the inference that it is important to find a balance between the cost for a method and how personal it gets with the target audience.
 
 Precint 945 had voter turnout of 6.36%, and precinct 928 had 75.6% voter turnout...
 
