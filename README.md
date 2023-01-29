@@ -23,6 +23,21 @@ While the success of each outreach method was rather simple to discern, looking 
 
 When calculating total cost of a single method over the number of people reached using that method that went to vote, the individual cost of canvassing came out to \$97 per vote that it produced. In comparison, all three other methods were under \$20, even though door knocking had the fewest attempts at reaching people. This statistic paired with the raw success rates of each method draws out the inference that it is important to find a balance between the cost for a method and how personal it gets with the target audience.
 
-Precint 945 had voter turnout of 6.36%, and precinct 928 had 75.6% voter turnout...
+## Beyond the Target Precincts
 
-## Taking Outside Information into Account
+Although those statistics were found when considering GOTV's success on select precincts in Harris County, looking at the other precincts can show how much of an impact BakerRipley's presence made in comparison to precincts where they did not engage. In the below figure, all of the Harris County precincts voter rates are displayed in relation to their registered voter populus and racial/ethnic demographic information.
+
+![Registered Voters and Racial Info](/Visualizations/precinct-racial-distribution-by-registration-and-voting.png?raw=true "Registered Voters Racial Info")
+
+As the % of the precinct populations that is Black or Hispanic decreases and the overall % of not Anglo populations decreases, the percent of registered people that voted increases. In the positive correlatory direction, there is a somewhat present relation betweeen the number of registered voters and the percent that vote in a region. While this may sound like a given correlation, it would actually make more sense for there to be no clear correlation between the two as the general expectation is that rates of voting would stay steady no matter the registered populus. However, this gives insight to the nature of social influence on individual's choices, including a socially monitored behavior such as voting.
+
+$To see more results, please use the following link:$ [Cost Effective Analysis of GOTV]()
+
+# Key Points and Takeaways
+
+* The precinct with the lowest voter turnout was 945 with a rate of 6.36%, and the precinct with the highest voter turnout was 928 with a rate of 75.6%.
+  * Precinct 945's population is 89.6% non-Anglo, and precinct 928's population is 29.8% non-Anglo.
+* Linear regression showed percentages of Anglo and Hispanic individuals in a precinct's population were the highest indicators of voter turnout, positively and negatively, respectively.
+* BakerRipley clearly had some form of impact on the precincts that they targeted, though the extent is still yet indiscernible due to a lack of extensive information resources.
+* For better results, reception of mailings should be tracked, younger eligible individuals should be targeted, and largely Hispanic precincts should be targeted.
+* The phone method was found to be most efficient, in terms of cost, success rate, and voter turnout.
