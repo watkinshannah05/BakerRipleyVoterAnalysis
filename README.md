@@ -7,7 +7,7 @@ Leading up to the November 2022 Texas State Election, BakerRipley, a local nonpr
 * Block walking and door-to-door contact (\$2/door)
 * Mailing postcards (\$0.35/card)
 
-Despite the varying price levels, the associated rates of successful contact with the targeted individual were not correlative with price, but rather how personal the form of connection was; phone calls were most often received, followed by text messages, and knocking on doors was least often received (mailings had no indicator of whether the individual received them or not; see more on this in [Taking Outside Information into Account](#taking-outside-information-into-account).
+Despite the varying price levels, the associated rates of successful contact with the targeted individual were not correlative with price, but rather how personal the form of connection was; phone calls were most often received, followed by text messages, and knocking on doors was least often received (mailings had no indicator of whether the individual received them or not; see more on this in [the Youtube video](https://youtu.be/jDUTDaDM2SI).
 
 ![Voting in Target Group](/Visualizations/voter-part-among-govt-target.png?raw=true "Voting in GOVT Target Group")
 
@@ -31,7 +31,7 @@ Although those statistics were found when considering GOTV's success on select p
 
 As the % of the precinct populations that is Black or Hispanic decreases and the overall % of not Anglo populations decreases, the percent of registered people that voted increases. In the positive correlatory direction, there is a somewhat present relation betweeen the number of registered voters and the percent that vote in a region. While this may sound like a given correlation, it would actually make more sense for there to be no clear correlation between the two as the general expectation is that rates of voting would stay steady no matter the registered populus. However, this gives insight to the nature of social influence on individual's choices, including a socially monitored behavior such as voting.
 
-$To see more results, please use the following link:$ [Cost Effective Analysis of GOTV]()
+$To see more results, please use the following link:$ [Cost Effective Analysis of GOTV](https://youtu.be/jDUTDaDM2SI)
 
 # Key Points and Takeaways
 
